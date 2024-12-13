@@ -12,10 +12,8 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-UK",
+    analytics: null,
+    locale: "en-US",
     baseUrl: "caspersimon.github.io/youth-media",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -83,7 +81,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
