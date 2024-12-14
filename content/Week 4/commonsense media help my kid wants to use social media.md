@@ -1,5 +1,5 @@
 # Background
-So, the text on canvas said that you'll recognise the [[3 c's]] in here. 
+So, the text on canvas said that you'll recognise the [[3 C's]] in here. 
 # Summary
 The text opens with "what if your kid wants to use social media?" and then advises parents to talk with their kids but also listen to them! 
 
