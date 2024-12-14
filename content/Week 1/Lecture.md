@@ -8,9 +8,9 @@ There are all these terms for kids of certain age ranges. They are super importa
 
 | **Name**                             | **Age**     |
 | ------------------------------------ | ----------- |
-| [[infants]]                              | <1 year     |
-| [[Early childhood]]: toddlers            | 1-3 years   |
-| [[Early childhood]]: preschoolers        | 4-5 years   |
+| [[infants]]                          | <1 year     |
+| [[Early childhood]]: toddlers        | 1-3 years   |
+| [[Early childhood]]: preschoolers    | 4-5 years   |
 | Middle Childhood (in general)        | 5-12 years  |
 | Middle Childhood: tweens             | 8-12 years  |
 | Adolescents: early                   | 12-15 years |
@@ -18,5 +18,7 @@ There are all these terms for kids of certain age ranges. They are super importa
 | Emerging Adults (not in this course) | 19-25 years |
 
 ^f4f88f
+# [[3 C's]]
+![[3 C's]]
 
 ==**Go back: [[index]]**==
