@@ -16,7 +16,7 @@ Explains how children can extract and comprehend educational content from TV
 * If narrative and educational content closely linked (*integral*), then children can process the message better and they have the learning outcomes too
 
 > [!info]+ Implications capacity model: how to make effective educational media?
-> also see: [[Chapter 11#Key factors influencing learning]]
+> also see: [](Week%203/Chapter%2011.md#Key%20factors%20influencing%20learning)
 > - Reduce complexity (participatory cues – e.g. Dora asking audience to do things and familiar context  - e.g. places kids have been so doctor’s office, the beach, etc.)
 > - Use entertaining narrative structure that follows narrative conventions (= story has beginning – middle – end)
 > - Present educational content that is clear, explicit and visually concrete
@@ -28,6 +28,6 @@ Explains how children can extract and comprehend educational content from TV
 
 > [!info]- graphical representation of the model
 > 
-> ![[Pasted image 20241212151603.png]]
-> ![[Pasted image 20241212151608.png]]
+> ![Pasted image 20241212151603](Week%203/attachments/Pasted%20image%2020241212151603.png)
+> ![Pasted image 20241212151608](Week%203/attachments/Pasted%20image%2020241212151608.png)
 

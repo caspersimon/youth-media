@@ -1,4 +1,4 @@
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==
 Full text at the bottom, summary:
 ```table-of-contents
 ```
@@ -86,7 +86,7 @@ Research shows that:
 
 In games, scaffolding is also effective and has been implemented in two main ways:
 
-![[scaffolding#How?]]
+![](Definitions/scaffolding.md#How?)
 
 ## Motivation
 Studies that compare school results between kids motivated by external rewards (performance orientations) like grades or gifts from parents to those of intrinsically motivated students (mastery orientations) like a drive to meet internal goals and found that: 

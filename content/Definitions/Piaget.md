@@ -1,6 +1,6 @@
 %%AI-generated with llama3.3 based on provided information in notes and the book%%
 
-According to Jean Piaget's theory of [[Development types|cognitive development]], the four stages of development are:
+According to Jean Piaget's theory of [cognitive development](Definitions/Development%20types.md), the four stages of development are:
 
 1. **Sensorimotor stage**: This stage occurs from birth to approximately 2 years old. During this stage, infants and young children learn by using their senses and motor skills to interact with the environment.
 2. **Preoperational stage**: This stage occurs from approximately 2 to 7 years old. Children in this stage begin to use symbols and language to represent the world, but they are not yet able to think logically or understand cause-and-effect relationships.

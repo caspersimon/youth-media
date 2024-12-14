@@ -23,7 +23,7 @@ c) Cognitive flexibility
 ## Question 4
 There is an urban legend that describes a showing of a 1896 silent film in which a life-size train arrives in a station, causing sheer panic among the adult audience because the audience believes that the train was truly headed toward them. Which of the following perspectives is often used to describe this event?
 
-a) [[Hypodermic needle]] Perspective
+a) [Hypodermic needle](Definitions/theories/Hypodermic%20needle.md) Perspective
 b) Social Cognitive Theory
 c) Payne Fund Theory
 

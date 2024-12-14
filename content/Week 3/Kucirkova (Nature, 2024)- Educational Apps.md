@@ -19,4 +19,4 @@ Addressing these issues is crucial to prevent the misuse of resources and ensure
 
 Key to unlocking the transformative power of edtech: **collaborative approach,** focused on research and evidence-based design
 
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==

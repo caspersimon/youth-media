@@ -1,1 +1,1 @@
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==

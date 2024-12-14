@@ -1,1 +1,1 @@
-Sesame street is [[Academic educational media |academic educational media]] and mentioned several times. See linked mentions by clicking into this page.
+Sesame street is [academic educational media](Academic%20educational%20media%20) and mentioned several times. See linked mentions by clicking into this page.

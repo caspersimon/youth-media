@@ -1,13 +1,13 @@
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==
 ```table-of-contents
 ```
 The chapter is mostly about the development of these kids and then for each age group they write a bit about how their developmental level relates to the media they watch. At the beginning of the chapter they define some concepts (below). They also point out the obvious that “no two children are alike” (p. 47), and thus that any generalisations made in the remainder of the chapter are just that: generalisations.
 
 Before we continue, there’s three important concepts that deserve some attention:
 
-![[Development types]]
+![Development types](Definitions/Development%20types.md)
 
-![[Moderate discrepancy hypothesis]]
+![Moderate discrepancy hypothesis](Definitions/theories/Moderate%20discrepancy%20hypothesis.md)
 
 ### Birth to Two Years: Sensorimotor Stage
 
@@ -18,14 +18,14 @@ Some sensory preferences of kids are probably innate. Newborns and kids up until
 
 However, their vision is shit up until 8 months. Anything more than 50cm away is blurry to them. But they can see color pretty well and see the full spectrum from 1 month old. They love looking at human faces more than anything else. They also love bright contrasty colours (hence why toys and media are brightly coloured). 
 
-#### TV and Commercials: Like Crack for [[toddlers|Toddler]]’s Eyes (up to 2 years)
+#### TV and Commercials: Like Crack for [Toddler](Definitions/Age%20ranges/toddlers.md)’s Eyes (up to 2 years)
 THE ESTIMATED AVERAGE AGE AT WHICH KIDS START USING AUDIOVISUAL MEDIA IS BETWEEN 3 AND 5 MONTHS OLD!!!
 
 Kids love Teletubbies because of the bright colours. They also have the **investigative-orienting system of attention** that makes them hardwired to look at striking auditory and visual features (**orienting features**). Like, they look at new shiny things.  ^7740bb
 
 Storylines literally don’t matter for these kids because they only care about orienting features: “children under eighteen months are just as interested in a video clip that mixes up beginning, middle, and end as they are in a clip with a coherent story line” (p. 50). At 15 months kids might say the name of the characters on screen, imitate she programme, sing and dance along. But they just have no clue of what’s going on.
 
-#### Tablets: Perfect to Grab Your [[toddlers]]’ and [[infants]]’ Attention!
+#### Tablets: Perfect to Grab Your [toddlers](Definitions/Age%20ranges/toddlers.md)’ and [infants](Definitions/Age%20ranges/infants.md)’ Attention!
 
 From 3 to 5 months old, kids begin to become interested in tablets. That’t probably because:
 
@@ -33,7 +33,7 @@ From 3 to 5 months old, kids begin to become interested in tablets. That’t pro
 2. They have bright colours, movement, and sound effects (i.e., orienting features)
 3. They give kids instant feedback. They love that because they just love seeing their surroundings change because of something they do. Kids also love flipping light switches for thai reason: it’s magical.
 
-With the [[Moderate discrepancy hypothesis]] we can say that tablets are also appealing because touch screens fit perfectly with young childrens’ motor and [[Development types|cognitive development]].
+With the [Moderate discrepancy hypothesis](Definitions/theories/Moderate%20discrepancy%20hypothesis.md) we can say that tablets are also appealing because touch screens fit perfectly with young childrens’ motor and [cognitive development](Definitions/Development%20types.md).
 
 #### Is this something we want?
 Obviously there’s this debate on whether it’s good to expose kids to media from a young age or whether it’s better if they touch grass. There are health departments in various countries that discourage screen use for under-two’s. In France, it’s even illegal to air programs targeted at kids under 3. 
@@ -41,7 +41,7 @@ Obviously there’s this debate on whether it’s good to expose kids to media f
 Like literally every social science topic, and communication science topic in particular: findings are mixed and nuanced. There are possible drawbacks but also opportunities. Like a “video deficit” can occur because children learn better when they see things in real life than from a model on a screen. But that deficit can be mitigated when the content is repeated or when a parent explains the content. On the positive side, appropriate educational media can be good for emotional learning and cognitive learning. Like, you really don’t need scholars to tell you this because it makes a ton of sense, but hey, now we have evidence that it’s true!
 
 ### 2 to 5 years: preoperational stage
-This stage is characterized by [[symbolic thinking]]—the ability to use a symbol to stand for something that is not there. Such a symbol can be a drawing of a specific event, or a box that the child uses as a boat. Children must develop [[symbolic thinking]] in order to engage in the activities of the preoperational stage, such as imitation, drawing, and pretend play. [[Piaget]] called children’s thinking in this stage preoperational because unlike operational thinking, which characterizes middle childhood, preoperational thinking is not yet logical or tied to the law of cause and effect (p. 52)
+This stage is characterized by [symbolic thinking](Book/symbolic%20thinking.md)—the ability to use a symbol to stand for something that is not there. Such a symbol can be a drawing of a specific event, or a box that the child uses as a boat. Children must develop [symbolic thinking](Book/symbolic%20thinking.md) in order to engage in the activities of the preoperational stage, such as imitation, drawing, and pretend play. [Piaget](Definitions/Piaget.md) called children’s thinking in this stage preoperational because unlike operational thinking, which characterizes middle childhood, preoperational thinking is not yet logical or tied to the law of cause and effect (p. 52)
 
 #### Kids are less dumb now! But still don’t really know the difference between reality and fantasy
 From 2.5 years old, kids start to appreciate stories instead of just being drawn to orienting features. At age 5, they probably aren’t interested in teletubbies anymore. However, they are still kinda dumb because “children as young as three can distinguish reasonably well between fantasy and reality, although it is easy to get them to doubt themselves” (p. 54). Like, when they watch Frozen they kinda know that it’s fantasy, but they still might be terrified. There’s some boundary between reality and fantasy, but it’s blurry. See example:
@@ -67,14 +67,14 @@ How this relates to their media use:
 #### Familiarity Is Fun!
 Between ages 2 and 5, the short term memory of kids doubles in capacity. However, they have had very little experience with the world and thus they are still bad at processing information because they cannot really relate new info to existing knowledge: “young children’s responses are stimulus driven, whereas older children’s responses are more schema driven” (p. 57). This is also why young kids prefer slow-paced tv shows with a lot of repetition. They also like watching tv shows 
 
-that offer them a familiar context with situations that they recognize and that happen close to their own home. They enjoy watching shows that eature other [[toddlers]] and preschoolers, or simple, friendly fantasy characters. They also take a special interest in objects and animals that they know and can label verbally, such as a dog, a cat, or a bear (p. 57).
+that offer them a familiar context with situations that they recognize and that happen close to their own home. They enjoy watching shows that eature other [toddlers](Definitions/Age%20ranges/toddlers.md) and preschoolers, or simple, friendly fantasy characters. They also take a special interest in objects and animals that they know and can label verbally, such as a dog, a cat, or a bear (p. 57).
 
 #### Self-Conscious Emotions: Jealousy, Pride, and Empathy
 %%These paragraphs were largely AI-generated by ChatGPT via Apple Intelligence’s Compose feature%%
 
-In the study of emotions, there is a distinction between basic and self-conscious emotions. Basic emotions, such as enjoyment, surprise, anger, fear, sadness, and disgust, are present from [[infants|infancy]] and are characterised by quick onset and universal facial expressions. 
+In the study of emotions, there is a distinction between basic and self-conscious emotions. Basic emotions, such as enjoyment, surprise, anger, fear, sadness, and disgust, are present from [infancy](Definitions/Age%20ranges/infants.md) and are characterised by quick onset and universal facial expressions. 
 
-In contrast, self-conscious emotions like shame, jealousy, pride, empathy, and guilt develop between ages two and three, as children gain self-awareness and an understanding of norms and rules. These emotions require a certain level of [[Development types|social-emotional development]] (that is, to feel shame, the kid needs to understand they did something wrong, for which they need to understand social rules). The [[Moderate discrepancy hypothesis]] suggests that young children are attracted to media that mirrors their own experiences, and they relate closely to characters that express recognisable emotions (because of their perceptual boundedness). Complex emotions, such as crying while happy, can be confusing for them.
+In contrast, self-conscious emotions like shame, jealousy, pride, empathy, and guilt develop between ages two and three, as children gain self-awareness and an understanding of norms and rules. These emotions require a certain level of [social-emotional development](Definitions/Development%20types.md) (that is, to feel shame, the kid needs to understand they did something wrong, for which they need to understand social rules). The [Moderate discrepancy hypothesis](Definitions/theories/Moderate%20discrepancy%20hypothesis.md) suggests that young children are attracted to media that mirrors their own experiences, and they relate closely to characters that express recognisable emotions (because of their perceptual boundedness). Complex emotions, such as crying while happy, can be confusing for them.
 
 ### With Development Comes Gender
 The first ~18 months of a child’s development is basically gender-neutral. They don’t think of themselves as gendered and they really don’t give a flip about the gender of the media characters they watch (that are often gender neutral lol). Gender differences can start to appear around 14 months of age (e.g., toy preferences). By the age of 3, the differences are more apparent. Kids will play with other kids of the same sex and they become interested in different kinds of activities. Why?????
@@ -90,6 +90,6 @@ Possible explanations (that are not mutually exclusive):
 
 The differences between boys and girls and what they like in movies and books become pretty clear as they start interacting with media. From a young age, boys and girls already show preferences. For instance, boys in preschool seem to like sports, action, and even scary stuff like dinosaurs or space aliens. They also look up to heroes with amazing powers, sports stars, and even roles like doctors and policemen. On the other hand, girls seem to enjoy stories with castles, fairies, and characters that are more into nurturing relationships and people. They often go for themes that revolve around dance studios or farms.
 
-This trend extends to the characters they prefer too. At the age of two, both boys and girls don’t have strong preferences for gender-stereotyped characters. Girls might like characters like Abby Cadabby from [[Sesame street]], and boys might go for Thomas the Tank Engine. But by five, kids start liking characters that are more typically boyish or girlish, like Disney's Tinkerbell or Pixar’s Lightning McQueen. Basically, as they grow, their media tastes get more linked to traditional gender roles. These specific likes and dislikes lessen a bit in elementary school but come back strongly during puberty. The next couple of chapters dive deeper into these changes at different ages.
+This trend extends to the characters they prefer too. At the age of two, both boys and girls don’t have strong preferences for gender-stereotyped characters. Girls might like characters like Abby Cadabby from [Sesame street](common_terms/Sesame%20street.md), and boys might go for Thomas the Tank Engine. But by five, kids start liking characters that are more typically boyish or girlish, like Disney's Tinkerbell or Pixar’s Lightning McQueen. Basically, as they grow, their media tastes get more linked to traditional gender roles. These specific likes and dislikes lessen a bit in elementary school but come back strongly during puberty. The next couple of chapters dive deeper into these changes at different ages.
 
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==

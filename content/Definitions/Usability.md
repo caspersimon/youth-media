@@ -13,4 +13,4 @@ Being easy to use has to do with a few things:
 ## Audio design
 
 ## Summary
-![[Pasted image 20241212184501.png]]
+![Pasted image 20241212184501](Definitions/attachments/Pasted%20image%2020241212184501.png)

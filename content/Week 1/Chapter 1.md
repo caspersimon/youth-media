@@ -1,4 +1,4 @@
-==**Go back: [[index]]**==
+==**Go back: [index](index.md)**==
 
 What we know about media and youth is limited because everything is just moving so fast. Just a few years ago, everyone was on facebook. Now: what’s facebook? “in the new media landscape, we must run as fast as we can, just to stay in place” (p.1)
 
@@ -25,4 +25,4 @@ News stories about youth and media often have four common characteristics:
 
 This book aims to present a nuanced view backed by research!
 
-Go back: [[index]]
+Go back: [index](index.md)
