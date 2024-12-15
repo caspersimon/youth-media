@@ -1,18 +1,7 @@
-# Quartz v4
+# Youth media notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Hi, nerd! If you're also in TAC and you would like to help by sharing your notes or improving the site, please feel free to open a pull request. The files in the content folder are the source material, so change that.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+If you don't know what a pull request is, you can still help! Go into the content folder, download the file to the page you want to edit (or copy everything), then edit the file. I recommend editing via [stackedit](https://stackedit.io/app#)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Then send me an email with the changes you've made to 55_stickup.aldrin@icloud.com
