@@ -4,4 +4,4 @@ aliases:
   - infant
 ---
 <1 year
-[Piaget](Definitions/Piaget.md): 0-2 sensorymotor stage
+[[Definitions/Piaget]]: 0-2 sensorymotor stage

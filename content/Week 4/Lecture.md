@@ -74,7 +74,7 @@ YES! Because:
 
 58% think they can easily delete information they have posted about themselves online (which is not true)
 
-# Summary: what to know about social media and [middle childhood](Definitions/Age%20ranges/middle%20childhood.md)
+# Summary: what to know about social media and [[Definitions/Age ranges/middle childhood]]
 * They are using social media so we cannot ignore them
 * They are using social media differently
 * They have a right to social media that respect their rights

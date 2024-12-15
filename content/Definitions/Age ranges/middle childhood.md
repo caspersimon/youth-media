@@ -1,3 +1,3 @@
 5-12
-also see [tweens](Definitions/Age%20ranges/tweens.md)
-[Piaget](Definitions/Piaget.md): 
+also see [[Definitions/Age ranges/tweens]]
+[[Definitions/Piaget]]: 

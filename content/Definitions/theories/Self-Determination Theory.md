@@ -15,7 +15,7 @@ And games can provide both fun and meaning (hedonic and eudemonic enjoyment)
 > Pacing of challenges is often designed so players can continually experience enhanced competence as they progress in the game – balancing player skill against game challenges
 > 
 > e.g. you do not start at level 100 when first playing a game because too hard so you’ll have high level of anxiety because it is too hard so you will not continue playing it. So they start out easy and as you go along it will get higher - a balance between the level not being too easy so you are bored and not too hard where you get anxiety.
-> ![Pasted image 20241212162158](Definitions/theories/attachments/Pasted%20image%2020241212162158.png)
+> ![[Definitions/theories/attachments/Pasted image 20241212162158.png]]
 
 > [!info]- Need for autonomy
 > * Customization (e.g., fortnite skins)
@@ -39,4 +39,4 @@ When games satisfy these psychological needs – players:
 * and this potentially enhances the educational effects
 
 > [!info]+ The more engaging the content, the better the educational outcome
-> ![Pasted image 20241212163044](Definitions/theories/attachments/Pasted%20image%2020241212163044.png)
+> ![[Definitions/theories/attachments/Pasted image 20241212163044.png]]

@@ -475,7 +475,7 @@ With the quick adoption of touch screens by this young audience, there is likely
 
 #### Two to Five Years
 
-![symbolic thinking](Book/symbolic%20thinking.md)
+![[Book/symbolic thinking]]
 
 _Stories Now Matter_
 
@@ -531,7 +531,7 @@ _Familiarity Is Fun!_
 
 Children between two and five years of age prefer to watch television shows that offer them a familiar context with situations that they recognize and that happen close to their own home. They enjoy watching shows that feature other toddlers and preschoolers, or simple, friendly fantasy characters. They also take a special interest in objects and animals that they know and can label verbally, such as a dog, a cat, or a bear. It is no wonder, then, that many picture books, apps, and television programs for toddlers concern situations in and around the home.
 
-![Nascent ability to process info](Book/Nascent%20ability%20to%20process%20info.md)
+![[Book/Nascent ability to process info]]
 
 It is no wonder, then, that young children need more time than older ones to interpret and understand media content, and that they prefer watching slow-paced television shows that involve a lot of repetition. Repetition provides them the opportunity not only to overcome centration (discussed above), but also to “master” the stories. Just as adults might need to read a difficult text a few times before they can grasp it, toddlers and preschoolers find support by watching the same scenes over and over again.
 

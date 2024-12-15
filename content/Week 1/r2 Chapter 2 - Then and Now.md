@@ -1,4 +1,4 @@
-==**Go back: [index](index.md)**==
+==**Go back: [[index]]**==
 This chapter is basically a review of children and children's media throughout history. The first book about raising children was Rousseau’s in 1762. That’s the starting point of this chapter.
 ### Before 1762: Children as Miniature Adults
 Before this time there was no specific media for children because they were literally seen as small adults. When (if) children could read, they read the same material as adults did. Like they were treated exactly the same as adults and they saw the same gross and horrible things. For example: “children would regularly accompany their parents to the market square to attend public beheadings and physical punishments.” (p. 12)
@@ -29,4 +29,4 @@ The short answer: yes. In different ways:
 3. Self-awareness and Self-esteem. Probably because we have different social norms (e.g., selfie culture). Also: high self esteem and self-awareness leads to narcissism!! So the current generation is more narcissistic.
 4. Psychological problems (e.g., ADHD, anxiety, depression). There is a small (but significant) relationship between media use and ADHD and anxiety. However, the increases are most probably because the diagnostic criteria have broadened.
 
-==**Go back: [index](index.md)**==
+==**Go back: [[index]]**==

@@ -1,4 +1,4 @@
-==**Go back: [index](index.md)**==
+==**Go back: [[index]]**==
 This is really just a short paper (930 words) about how little there is actually known about how screen time relates to the well-being of children and young people (CYP). Some points they make are:
 
 1. “Screen time” is a useless term. Screen time can refer to being on social media, gaming, or watching tv. All these different uses of screen time might have different effects. For example, other research found that “passive screen time” (i.e., watching tv) was related with worse physical health but “active screen time” (i.e., gaming) was not.

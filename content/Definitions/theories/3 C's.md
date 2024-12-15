@@ -6,7 +6,7 @@ aliases:
 A framework used by practitioners to answer questions like: "should I let my kid use X media?"
 
 > [!abstract]+ a nice venn diagram
-> ![Pasted image 20241214182722](Definitions/attachments/Pasted%20image%2020241214182722.png)
+> ![[Definitions/attachments/Pasted image 20241214182722.png]]
 
 # Content 
 Carefully asses app content, is it educational and age appropriate?

@@ -1,9 +1,9 @@
 # Background
-So, the text on canvas said that you'll recognise the [3 C's](Definitions/theories/3%20C's.md) in here. 
+So, the text on canvas said that you'll recognise the [[Definitions/theories/3 C's]] in here. 
 # Summary
 The text opens with "what if your kid wants to use social media?" and then advises parents to talk with their kids but also listen to them! 
 
-They then list a couple of things to talk about with your teen, they give examples of best possible answers, and then give take-aways. Those take-aways really reflect the [3 C's](Definitions/theories/3%20C's.md) imo. Below, you will find a shortened version of that part of the article.
+They then list a couple of things to talk about with your teen, they give examples of best possible answers, and then give take-aways. Those take-aways really reflect the [[Definitions/theories/3 C's]] imo. Below, you will find a shortened version of that part of the article.
 
 > [!abstract]- Compact article
 > 
@@ -37,7 +37,7 @@ They then list a couple of things to talk about with your teen, they give exampl
 > * **Thinking about consequences isn't a teen's strongest skill because of brain development**, but if they can pause for a few seconds to think about why they're posting something and what the impact might be, it might help prevent problems. 
 > * They'll still make mistakes, but a little mindfulness goes a long way.
 > 
-> (the second point is clearly linked to child in [3 C's](Definitions/theories/3%20C's.md))
+> (the second point is clearly linked to child in [[Definitions/theories/3 C's]])
 > ***
 > **Ask your teen**: Do you know what to do if someone is mean, [harasses you for pictures](https://www.commonsensemedia.org/articles/how-do-i-protect-my-young-child-from-cyberbullying), stalks you, or does anything else that feels sketchy?
 > 
@@ -51,7 +51,7 @@ They then list a couple of things to talk about with your teen, they give exampl
 > - They show you how they change their IG/TikTok account to private.
 > 
 > **Takeaways**: You and your teen need to understand the app they're using in terms of who can see their posts, who can friend/contact them, and how to use the settings to be as safe as possible. This is a good time to download their favorite app, have your kid walk you through how to use it, and take a look at the settings together.
-> --> CLEARLY reflects the context in [3 C's](Definitions/theories/3%20C's.md)
+> --> CLEARLY reflects the context in [[Definitions/theories/3 C's]]
 > ***
 > **Ask your teen**: What might bum you out about social media, and what can you do about it?
 > 
@@ -98,7 +98,7 @@ They then list a couple of things to talk about with your teen, they give exampl
 > 
 > **Takeaways**: Many of these apps have cool features you can share and conversation-sparking content that offers something that's not always easy to find: connection with your teen. Meet them where they are, have ongoing conversations, stay involved, and have fun when possible!
 
-## Link to [3 C's](Definitions/theories/3%20C's.md)
+## Link to [[Definitions/theories/3 C's]]
 ### Content:
 Consider which content the kid will see.
 * Will they meet strangers on Yubo? 

@@ -15,4 +15,4 @@ Review is about: does IVR (immersive virtual reality)
 3. Increased intrinsic motivation and engagement
 4. transfer of knowledge and skills --> situated learning
 
-==**Go back: [index](index.md)**==
+==**Go back: [[index]]**==
