@@ -36,7 +36,7 @@ Modern parents are pulled between being nurturing and providing firm rules. **Au
 > [!info]- Overly Strict Rules  
 > Overly rigid bans, especially without explanation, may push older kids and teens toward secretive behavior and diminish trust.
 
-## Babies, Toddlers, and Screen Time
+## [Babies](Definitions/Age%20ranges/infants.md), [Toddlers](Definitions/Age%20ranges/toddlers.md), and Screen Time
 Very young children’s exposure to screens—both foreground (kids’ shows, apps) and background (adult TV heard in passing)—warrants careful thought. Emerging evidence shows that not all screen time is detrimental, especially if it’s educational and interactive.
 
 ### Media Guidelines of Pediatricians

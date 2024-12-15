@@ -5,7 +5,7 @@
 They write about the developments of young elementary school children (5-7 years) and of preadolescents (8-12) and how that development impacts the media they use and also why they collect skylanders and pokemon cards.
 
 
-### Young Elementary Schoolchildren (5-7 years)
+### [Young Elementary Schoolchildren](Definitions/Age%20ranges/young%20elementary%20schoolchildren.md) (5-7 years)
 This is considered a transitional time. [[Definitions/Piaget]] said these kids are still in the preoperational stage though. Still, they have perceptual boundedness, but this tendency has largely disappeared at age 9. 5 year-olds also still do centration, but by the age of 9 they can take in multiple details at once. They also learn to understand stories better, and they’ll be able to understand flashbacks and stuff. So, during this period, they really start to become a whole lot less dumb!
 
 However, they still might have trouble distinguishing realistic from unrealistic media content, but their skills improve as they do less centration and perceptual boundedness. Like, they’ll understand that Big Bird is someone in a costume, they don’t really believe in Santa anymore (but aren’t sure whether he is fake). Some kids will take this scepticism a step further and start to believe everything on TV is fake.
@@ -27,7 +27,7 @@ How kids of this age use media:
 
 #### Humour Preferences
 
-[[Definitions/Age ranges/toddlers]] and preschoolers like clownish, physical and innocent humour. From age 5, they develop language skills that unlock them using more humour types. See the table below
+[[Definitions/Age ranges/toddlers]] and [preschoolers](Definitions/Age%20ranges/preschoolers.md) like clownish, physical and innocent humour. From age 5, they develop language skills that unlock them using more humour types. See the table below
 
 |   |   |
 |---|---|

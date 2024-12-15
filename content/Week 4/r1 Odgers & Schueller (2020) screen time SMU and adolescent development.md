@@ -1,15 +1,15 @@
 # Human-edited AI summary
 
-Research often shows mixed, often null, and small associations between social media use and negative developmental outcomes for adolescents.
+Research often shows mixed, often null, and small associations between social media use and negative developmental outcomes for [adolescents](Definitions/Age%20ranges/Adolescence.md).
 
 ## Key Limitations of Current Research
 ### Methodological Issues
 - **Over-reliance on correlational data:** Most studies are correlational, making it impossible to establish causality. Small correlations are found, but these do not indicate a causal effect.
-- **Poorly defined and measured variables:** "Screen time" is a broad and imprecise measure, failing to capture the nuances of how adolescents use digital technology. The quality of online interactions is not considered, making it impossible to differentiate between various types of content.
+- **Poorly defined and measured variables:** "Screen time" is a broad and imprecise measure, failing to capture the nuances of how [adolescents](Definitions/Age%20ranges/Adolescence.md) use digital technology. The quality of online interactions is not considered, making it impossible to differentiate between various types of content.
 - **Lack of experimental studies:** Few experimental studies exist that control for confounding variables and manipulate social media exposure. Randomization is often lacking in experimental designs. Existing experiments suffer from limitations like lack of blinding and insufficiently controlled exposure to social media.
 - **Neglect of confounding factors:** Confounding variables, such as socioeconomic status (SES), are often not adequately controlled for. SES influences both social media usage and mental health outcomes, potentially leading to spurious correlations.
 - **Inconsistent measurement and analysis techniques:** Different studies employ varying measures of social media use and mental health, making it difficult to compare findings and reach consistent conclusions. Also, even when using the same dataset, researchers can arrive at differing interpretations depending on the analysis methods used.
-- **Ignoring Subgroup Differences:** Studies often treat adolescents as a homogeneous group, but the effects of social media likely vary across different subgroups (e.g., gender, socioeconomic status, existing mental health vulnerabilities, marginalized communities).
+- **Ignoring Subgroup Differences:** Studies often treat [adolescents](Definitions/Age%20ranges/Adolescence.md) as a homogeneous group, but the effects of social media likely vary across different subgroups (e.g., gender, socioeconomic status, existing mental health vulnerabilities, marginalized communities).
 
 ### Interpreting Small Effects
 
@@ -18,16 +18,16 @@ The authors discuss the debate surrounding the interpretation of small effect si
 ## Key Findings Regarding Subgroups
 The authors highlight the need to consider subgroup differences:
 - **Adolescent Girls:** More consistent negative correlations are found between social media use and mental health problems among adolescent girls compared to boys, suggesting a possible specific risk factor.
-- **Adolescents with Existing Mental Health Issues:** Those with pre-existing mental health problems are more likely to engage in high-risk online behaviors and experience negative online experiences.
-- **Low-Income Households:** Adolescents from low-income households spend more time on screens and have less support from parents in navigating online spaces, potentially increasing risk for negative mental health outcomes. Digital inequalities may widen during crises such as the COVID-19 pandemic.
-- **Marginalised Adolescents:** While online spaces can pose risks for marginalised youth (harassment, etc.), they can also provide important support and community not available offline (LGBTQ+ youth, racial minority youth).
+- **[Adolescents](Definitions/Age%20ranges/Adolescence.md) with Existing Mental Health Issues:** Those with pre-existing mental health problems are more likely to engage in high-risk online behaviors and experience negative online experiences.
+- **Low-Income Households:** [Adolescents](Definitions/Age%20ranges/Adolescence.md) from low-income households spend more time on screens and have less support from parents in navigating online spaces, potentially increasing risk for negative mental health outcomes. Digital inequalities may widen during crises such as the COVID-19 pandemic.
+- **Marginalised [Adolescents](Definitions/Age%20ranges/Adolescence.md):** While online spaces can pose risks for marginalised youth (harassment, etc.), they can also provide important support and community not available offline (LGBTQ+ youth, racial minority youth).
 
 ## Recommendations for Future Research
 - **Start doing experiments (and quasi-experiments)**
 - **Consider more than just screen time** also consider the quality and type of online engagement.
 - **Employ advanced methodologies**, including passive sensing and machine learning, to collect more granular and objective data on adolescent digital technology use.
 - **Test for heterogeneity** of effects across various demographic and developmental subgroups.
-- Integrate qualitative research to gain a more complete understanding of adolescents' experiences and perspectives.
+- Integrate qualitative research to gain a more complete understanding of [adolescents](Definitions/Age%20ranges/Adolescence.md)' experiences and perspectives.
 - Embrace open science principles (e.g., data sharing, preregistration) to enhance transparency and replicability.
 
 ## Potential positive uses
@@ -36,7 +36,7 @@ The authors highlight the need to consider subgroup differences:
 - Opportunities for self-expression and identity exploration.
 - Connections with peers and mentors.
 
-However, there are currently no evidence-based digital mental health interventions specifically designed for adolescents, so we need that.
+However, there are currently no evidence-based digital mental health interventions specifically designed for [adolescents](Definitions/Age%20ranges/Adolescence.md), so we need that.
 
 > [!example]- Take-away points (ai-generated)
 > # Important Take-Aways
@@ -59,13 +59,13 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > 9. Social media may pose unique risks for adolescent girls and those from low-income households.
 >     
-> 10. Social media can provide support and community for marginalized adolescents.
+> 10. Social media can provide support and community for marginalized [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 11. The potential benefits of social media for mental health should not be overlooked.
 >     
-> 12. Evidence-based digital mental health interventions for adolescents are needed, but few currently exist.
+> 12. Evidence-based digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md) are needed, but few currently exist.
 >     
-> 13. Greater collaboration between researchers, technology companies, policymakers, and adolescents themselves is required.
+> 13. Greater collaboration between researchers, technology companies, policymakers, and [adolescents](Definitions/Age%20ranges/Adolescence.md) themselves is required.
 >     
 > 14. Open science principles should be embraced to increase transparency and replicability.
 >     
@@ -79,35 +79,35 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > 19. It is important to avoid oversimplifying complex relationships between social media use and adolescent mental health.
 >     
-> 20. The ethical considerations of conducting research on adolescents and their digital technology use must be carefully addressed.
+> 20. The ethical considerations of conducting research on [adolescents](Definitions/Age%20ranges/Adolescence.md) and their digital technology use must be carefully addressed.
 >     
 > 21. The potential for bias in self-reported data should be acknowledged and addressed.
 >     
-> 22. The increasing reliance of adolescents on online platforms for education and social interaction necessitates the development of safe and supportive digital environments.
+> 22. The increasing reliance of [adolescents](Definitions/Age%20ranges/Adolescence.md) on online platforms for education and social interaction necessitates the development of safe and supportive digital environments.
 >     
-> 23. Addressing digital inequalities is crucial in ensuring equitable access to opportunities and support for all adolescents.
+> 23. Addressing digital inequalities is crucial in ensuring equitable access to opportunities and support for all [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 24. Collaboration with technology companies is necessary to access and utilize data on social media use, but transparency and independence are essential.
 >     
-> 25. A more nuanced and less fear-based approach to understanding social media use in adolescents is required.
+> 25. A more nuanced and less fear-based approach to understanding social media use in [adolescents](Definitions/Age%20ranges/Adolescence.md) is required.
 >     
 > 26. The potential for social media to support positive adolescent development should be recognized and explored.
 >     
-> 27. User-centered design principles should be employed in the development of digital mental health interventions for adolescents.
+> 27. User-centered design principles should be employed in the development of digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
-> 28. Existing digital mental health interventions are often not tailored to the specific needs of adolescents.
+> 28. Existing digital mental health interventions are often not tailored to the specific needs of [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 29. There is a need for better integration of digital mental health interventions into existing systems of care.
 >     
-> 30. Further research is needed to examine the effectiveness of different digital mental health interventions for adolescents.
+> 30. Further research is needed to examine the effectiveness of different digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
-> 31. Promoting digital literacy and media awareness among adolescents and parents is crucial.
+> 31. Promoting digital literacy and media awareness among [adolescents](Definitions/Age%20ranges/Adolescence.md) and parents is crucial.
 > 
 
 # Full AI-summary below
 
 > [!abstract]- Complete AI-Summary
-> This article reviews the relationship between social media use and adolescents' mental health and well-being. The authors challenge the prevalent narrative that social media is inherently harmful, arguing that empirical evidence doesn't support strong causal links between social media use and negative developmental outcomes. Instead, the existing research shows mixed, often null, and small associations. The authors point to methodological limitations in current research, highlighting the need for improved research design and measurement.
+> This article reviews the relationship between social media use and [adolescents](Definitions/Age%20ranges/Adolescence.md)' mental health and well-being. The authors challenge the prevalent narrative that social media is inherently harmful, arguing that empirical evidence doesn't support strong causal links between social media use and negative developmental outcomes. Instead, the existing research shows mixed, often null, and small associations. The authors point to methodological limitations in current research, highlighting the need for improved research design and measurement.
 > 
 > ## Key Limitations of Current Research
 > ### Methodological Issues
@@ -116,7 +116,7 @@ However, there are currently no evidence-based digital mental health interventio
 > 
 > - **Over-reliance on correlational data:** Most studies are correlational, making it impossible to establish causality. Small correlations are found, but these do not indicate a causal effect. The directionality of the relationship is unclear (does social media use cause mental health problems, or do pre-existing mental health issues lead to increased social media use?).
 >     
-> - **Poorly defined and measured variables:** "Screen time" is a broad and imprecise measure, failing to capture the nuances of how adolescents use digital technology. The quality of online interactions is not considered, making it impossible to differentiate between various types of content.
+> - **Poorly defined and measured variables:** "Screen time" is a broad and imprecise measure, failing to capture the nuances of how [adolescents](Definitions/Age%20ranges/Adolescence.md) use digital technology. The quality of online interactions is not considered, making it impossible to differentiate between various types of content.
 >     
 > - **Lack of experimental studies:** Few experimental studies exist that control for confounding variables and manipulate social media exposure. Randomization is often lacking in experimental designs. Existing experiments suffer from limitations like lack of blinding and insufficiently controlled exposure to social media.
 >     
@@ -124,7 +124,7 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > - **Inconsistent measurement and analysis techniques:** Different studies employ varying measures of social media use and mental health, making it difficult to compare findings and reach consistent conclusions. Also, even when using the same dataset, researchers can arrive at differing interpretations depending on the analysis methods used.
 >     
-> - **Ignoring Subgroup Differences:** Studies often treat adolescents as a homogeneous group, but the effects of social media likely vary across different subgroups (e.g., gender, socioeconomic status, existing mental health vulnerabilities, marginalized communities).
+> - **Ignoring Subgroup Differences:** Studies often treat [adolescents](Definitions/Age%20ranges/Adolescence.md) as a homogeneous group, but the effects of social media likely vary across different subgroups (e.g., gender, socioeconomic status, existing mental health vulnerabilities, marginalized communities).
 >     
 > 
 > ### Interpreting Small Effects
@@ -137,18 +137,18 @@ However, there are currently no evidence-based digital mental health interventio
 > 
 > - **Adolescent Girls:** More consistent negative correlations are found between social media use and mental health problems among adolescent girls compared to boys, suggesting a possible specific risk factor.
 >     
-> - **Adolescents with Existing Mental Health Issues:** Those with pre-existing mental health problems are more likely to engage in high-risk online behaviors and experience negative online experiences.
+> - **[Adolescents](Definitions/Age%20ranges/Adolescence.md) with Existing Mental Health Issues:** Those with pre-existing mental health problems are more likely to engage in high-risk online behaviors and experience negative online experiences.
 >     
-> - **Low-Income Households:** Adolescents from low-income households spend more time on screens and have less support from parents in navigating online spaces, potentially increasing risk for negative mental health outcomes. Digital inequalities may widen during crises such as the COVID-19 pandemic.
+> - **Low-Income Households:** [Adolescents](Definitions/Age%20ranges/Adolescence.md) from low-income households spend more time on screens and have less support from parents in navigating online spaces, potentially increasing risk for negative mental health outcomes. Digital inequalities may widen during crises such as the COVID-19 pandemic.
 >     
-> - **Marginalized Adolescents:** While online spaces can pose risks for marginalized youth (harassment, etc.), they can also provide important support and community not available offline (LGBTQ+ youth, racial minority youth).
+> - **Marginalized [Adolescents](Definitions/Age%20ranges/Adolescence.md):** While online spaces can pose risks for marginalized youth (harassment, etc.), they can also provide important support and community not available offline (LGBTQ+ youth, racial minority youth).
 >     
 > 
 > ## Recommendations for Future Research
 > 
 > The authors offer several recommendations to improve research in this area:
 > 
-> - Conduct rigorous experimental and quasi-experimental studies with adolescents to determine causality, controlling for relevant confounding factors.
+> - Conduct rigorous experimental and quasi-experimental studies with [adolescents](Definitions/Age%20ranges/Adolescence.md) to determine causality, controlling for relevant confounding factors.
 >     
 > - Develop more precise and nuanced measures of social media use, moving beyond the simplistic "screen time" metric and considering the quality and type of online engagement.
 >     
@@ -156,14 +156,14 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > - Test for heterogeneity of effects across various demographic and developmental subgroups.
 >     
-> - Integrate qualitative research to gain a more complete understanding of adolescents' experiences and perspectives.
+> - Integrate qualitative research to gain a more complete understanding of [adolescents](Definitions/Age%20ranges/Adolescence.md)' experiences and perspectives.
 >     
 > - Embrace open science principles (e.g., data sharing, preregistration) to enhance transparency and replicability.
 >     
 > 
 > ## Potential Uses of Social Media for Positive Outcomes
 > 
-> The authors also discuss the potential of social media to support adolescents' mental health by providing:
+> The authors also discuss the potential of social media to support [adolescents](Definitions/Age%20ranges/Adolescence.md)' mental health by providing:
 > 
 > - Access to information about mental health.
 >     
@@ -174,7 +174,7 @@ However, there are currently no evidence-based digital mental health interventio
 > - Connections with peers and mentors.
 >     
 > 
-> However, they emphasize the need for high-quality, evidence-based digital mental health interventions specifically designed for adolescents, addressing the current gap between existing knowledge and available resources.
+> However, they emphasize the need for high-quality, evidence-based digital mental health interventions specifically designed for [adolescents](Definitions/Age%20ranges/Adolescence.md), addressing the current gap between existing knowledge and available resources.
 > 
 > # Important Take-Aways
 > 
@@ -196,13 +196,13 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > 9. Social media may pose unique risks for adolescent girls and those from low-income households.
 >     
-> 10. Social media can provide support and community for marginalized adolescents.
+> 10. Social media can provide support and community for marginalized [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 11. The potential benefits of social media for mental health should not be overlooked.
 >     
-> 12. Evidence-based digital mental health interventions for adolescents are needed, but few currently exist.
+> 12. Evidence-based digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md) are needed, but few currently exist.
 >     
-> 13. Greater collaboration between researchers, technology companies, policymakers, and adolescents themselves is required.
+> 13. Greater collaboration between researchers, technology companies, policymakers, and [adolescents](Definitions/Age%20ranges/Adolescence.md) themselves is required.
 >     
 > 14. Open science principles should be embraced to increase transparency and replicability.
 >     
@@ -216,26 +216,26 @@ However, there are currently no evidence-based digital mental health interventio
 >     
 > 19. It is important to avoid oversimplifying complex relationships between social media use and adolescent mental health.
 >     
-> 20. The ethical considerations of conducting research on adolescents and their digital technology use must be carefully addressed.
+> 20. The ethical considerations of conducting research on [adolescents](Definitions/Age%20ranges/Adolescence.md) and their digital technology use must be carefully addressed.
 >     
 > 21. The potential for bias in self-reported data should be acknowledged and addressed.
 >     
-> 22. The increasing reliance of adolescents on online platforms for education and social interaction necessitates the development of safe and supportive digital environments.
+> 22. The increasing reliance of [adolescents](Definitions/Age%20ranges/Adolescence.md) on online platforms for education and social interaction necessitates the development of safe and supportive digital environments.
 >     
-> 23. Addressing digital inequalities is crucial in ensuring equitable access to opportunities and support for all adolescents.
+> 23. Addressing digital inequalities is crucial in ensuring equitable access to opportunities and support for all [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 24. Collaboration with technology companies is necessary to access and utilize data on social media use, but transparency and independence are essential.
 >     
-> 25. A more nuanced and less fear-based approach to understanding social media use in adolescents is required.
+> 25. A more nuanced and less fear-based approach to understanding social media use in [adolescents](Definitions/Age%20ranges/Adolescence.md) is required.
 >     
 > 26. The potential for social media to support positive adolescent development should be recognized and explored.
 >     
-> 27. User-centered design principles should be employed in the development of digital mental health interventions for adolescents.
+> 27. User-centered design principles should be employed in the development of digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
-> 28. Existing digital mental health interventions are often not tailored to the specific needs of adolescents.
+> 28. Existing digital mental health interventions are often not tailored to the specific needs of [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
 > 29. There is a need for better integration of digital mental health interventions into existing systems of care.
 >     
-> 30. Further research is needed to examine the effectiveness of different digital mental health interventions for adolescents.
+> 30. Further research is needed to examine the effectiveness of different digital mental health interventions for [adolescents](Definitions/Age%20ranges/Adolescence.md).
 >     
-> 31. Promoting digital literacy and media awareness among adolescents and parents is crucial.
+> 31. Promoting digital literacy and media awareness among [adolescents](Definitions/Age%20ranges/Adolescence.md) and parents is crucial.

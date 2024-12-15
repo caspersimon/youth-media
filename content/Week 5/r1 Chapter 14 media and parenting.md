@@ -25,12 +25,12 @@ Restrictive monitoring—rules about which games are off-limits or how long one 
 > This approach treats children like partners, increasing the chance they’ll internalize the guideline and learn to self-regulate their media habits over time.
 
 ## When Child Development and Proactive Media Monitoring Meet
-Children’s developmental stages profoundly shape how they engage with media and how rules should be framed. Infants differ from teens in attention spans, interests, and vulnerabilities. Younger children need more concrete guidance and firm limits, while older children require more nuanced explanations and opportunities to practice self-governance.
+Children’s developmental stages profoundly shape how they engage with media and how rules should be framed. [Infants](Definitions/Age%20ranges/infants.md) differ from teens in attention spans, interests, and vulnerabilities. Younger children need more concrete guidance and firm limits, while older children require more nuanced explanations and opportunities to practice self-governance.
 
-Helping children develop self-regulation means adjusting parenting strategies as they mature. Encouraging simple turn-taking with screens in early childhood can later evolve into discussions about privacy and responsible sharing in adolescence. Each stage builds on the last, reinforcing the child’s emerging capacity to manage impulses and choices effectively.
+Helping children develop self-regulation means adjusting parenting strategies as they mature. Encouraging simple turn-taking with screens in [early childhood](Definitions/Age%20ranges/Early%20childhood.md) can later evolve into discussions about privacy and responsible sharing in [adolescence](Definitions/Age%20ranges/Adolescence.md). Each stage builds on the last, reinforcing the child’s emerging capacity to manage impulses and choices effectively.
 
-## Babies, Toddlers, and Screen Time
-For very young children, parents often wonder if any screen time is acceptable. Historically, pediatricians advised zero screen time for under-twos. But as interactive, educational apps emerge, some experts now say limited, developmentally appropriate media can be fine—especially if parents engage actively, pointing out shapes, narrating scenes, and linking content to real-world concepts. Still, background media (e.g., adult TV playing nearby) can distract babies, reduce parent-child interaction, and undermine attention skills crucial to self-regulation.
+## [Babies](Definitions/Age%20ranges/infants.md), [Toddlers](Definitions/Age%20ranges/toddlers.md), and Screen Time
+For very young children, parents often wonder if any screen time is acceptable. Historically, pediatricians advised zero screen time for under-twos. But as interactive, educational apps emerge, some experts now say limited, developmentally appropriate media can be fine—especially if parents engage actively, pointing out shapes, narrating scenes, and linking content to real-world concepts. Still, background media (e.g., adult TV playing nearby) can distract [babies](Definitions/Age%20ranges/infants.md), reduce parent-child interaction, and undermine attention skills crucial to self-regulation.
 
 > [!info]+ Balancing Early Exposure  
 > Introduce screens sparingly, focusing on high-quality, interactive options. Turn off background TV to promote uninterrupted play and parent-child bonding. Even brief sessions of guided viewing can help children practice focusing attention, a foundational self-regulatory skill, while too much passive exposure dulls their ability to concentrate without constant stimulation.
@@ -51,7 +51,7 @@ Factual explanations (“It’s not real, just actors”) help younger kids who 
 > As children mature, understanding that “it’s pretend” isn’t enough to deter them from imitating violent behaviors. They need guidance that violence is morally wrong and that there are better ways to handle anger. This moral framing strengthens their capacity to self-regulate, choosing compassion over aggression even in emotionally charged situations.
 
 ## Managing Media Use during the Teen Years
-Adolescents fiercely guard their autonomy and resent parental meddling in what they consider personal territory. Yet teens face new pressures—late-night chatting, socially charged content, tempting distractions. Their brains respond intensely to novelty and social rewards, making constant smartphone alerts feel impossible to ignore. Without guidance, they may struggle with sleep loss, stress, or impulsive posts that harm reputations.
+[Adolescents](Definitions/Age%20ranges/Adolescence.md) fiercely guard their autonomy and resent parental meddling in what they consider personal territory. Yet teens face new pressures—late-night chatting, socially charged content, tempting distractions. Their brains respond intensely to novelty and social rewards, making constant smartphone alerts feel impossible to ignore. Without guidance, they may struggle with sleep loss, stress, or impulsive posts that harm reputations.
 
 Parents must help teens balance their online life with offline well-being. Encouraging them to disconnect at certain times, even if it feels restrictive, can protect against unhealthy habits. Still, success hinges on how parents implement these rules. Threats and lectures spark rebellion, while empathetic discussions build trust and support self-regulation.
 
@@ -61,15 +61,15 @@ Habits form quickly: checking a phone at every spare moment soon becomes automat
 > [!info]+ Co-Creating Rules for Teens  
 > Offer perspective-taking: “I know staying connected is important to you. Still, how can we ensure good sleep?” By brainstorming together, you show respect for their viewpoint. Teens are more likely to follow rules they helped shape, reinforcing their ability to self-regulate when no one’s watching.
 
-> [!info]- Avoiding Reactance in Adolescents  
+> [!info]- Avoiding Reactance in [Adolescents](Definitions/Age%20ranges/Adolescence.md)  
 > Resorting to threats or guilt trips often leads teens to break rules secretly. Instead, frame restrictions as supportive guidelines that help them achieve their own goals (better grades, more energy). This approach aligns with authoritative parenting: it builds internal motivation rather than just enforcing compliance. When teens see media restraint as their own decision, they strengthen self-regulation, learning to resist temptations naturally.
 
 ## Conclusion
-Parents shape their children’s relationship with media through warmth, structure, and reasoned guidance. Whether deciding if a toddler should watch an educational app, steering a school-age child away from violent shows, or encouraging a teen to log off at night, the core principle remains consistent: help children internalize healthy boundaries, and in doing so, nurture self-regulation.
+Parents shape their children’s relationship with media through warmth, structure, and reasoned guidance. Whether deciding if a [toddler](Definitions/Age%20ranges/toddlers.md) should watch an educational app, steering a school-age child away from violent shows, or encouraging a teen to log off at night, the core principle remains consistent: help children internalize healthy boundaries, and in doing so, nurture self-regulation.
 
 Over time, children raised in authoritative homes learn to manage their screen time just as they manage other impulses. They become adults who can navigate a media-saturated world with confidence, empathy, and control—no longer needing external enforcement because they carry internal compasses shaped by their parents’ early support and understanding.
 
 > [!info]- Self-Regulation Across Development  
 > - **Early Childhood:** Consistent routines and gentle explanations help children grasp that not all impulses can be indulged immediately. They begin to focus attention and manage small frustrations.  
-> - **Middle Childhood:** Discussions about content (e.g., violence, commercials) and moral choices deepen their understanding. They increasingly resist impulses on their own, knowing why limits exist.  
-> - **Adolescence:** Collaborative rule-setting and respect for their perspective allow teens to take ownership. Equipped with moral reasoning, empathy, and practiced attention control, they can handle media’s lures, emerging as self-regulating individuals ready for adult responsibilities.
+> - **[Middle Childhood](Definitions/Age%20ranges/middle%20childhood.md):** Discussions about content (e.g., violence, commercials) and moral choices deepen their understanding. They increasingly resist impulses on their own, knowing why limits exist.  
+> - **[Adolescence](Definitions/Age%20ranges/Adolescence.md):** Collaborative rule-setting and respect for their perspective allow teens to take ownership. Equipped with moral reasoning, empathy, and practiced attention control, they can handle media’s lures, emerging as self-regulating individuals ready for adult responsibilities.

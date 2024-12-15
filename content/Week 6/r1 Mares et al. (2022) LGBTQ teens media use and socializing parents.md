@@ -1,6 +1,6 @@
 # Mutual Influence in LGBTQ Teens’ Use of Media to Socialize Their Parents
 
-Parents and children mutually influence each other’s views and behaviors, including how they interact with media. For LGBTQ teens, media can be a powerful tool for shaping their parents’ understanding and acceptance of their sexual or gender identities. This research explores how LGBTQ adolescents use TV shows, movies, and other media content that features LGBTQ narratives to educate, inform, and influence their parents, and how these efforts relate to teens’ perceptions of parental support and their own mental health.
+Parents and children mutually influence each other’s views and behaviors, including how they interact with media. For LGBTQ teens, media can be a powerful tool for shaping their parents’ understanding and acceptance of their sexual or gender identities. This research explores how LGBTQ [adolescents](Definitions/Age%20ranges/Adolescence.md) use TV shows, movies, and other media content that features LGBTQ narratives to educate, inform, and influence their parents, and how these efforts relate to teens’ perceptions of parental support and their own mental health.
 
 ## Background and Motivation
 Traditional socialization models often emphasize a top-down flow of influence from parents to children. However, newer theories, like social relational theory, argue that influence flows in both directions. Children can also impact their parents’ attitudes and behaviors. This mutual influence is especially relevant in domains where the child may hold unique expertise or experience—such as an LGBTQ teen educating their parents about their identity.
@@ -96,7 +96,7 @@ While the broad patterns were replicated, some differences emerged between the t
 More research is needed to:
 - Include both teens and parents to see how parents perceive these interactions.
 - Conduct longitudinal studies or moment-to-moment assessments to capture reciprocal influence over time.
-- Explore different contexts (younger adolescents, non-U.S. cultures, various family structures).
+- Explore different contexts (younger [adolescents](Definitions/Age%20ranges/Adolescence.md), non-U.S. cultures, various family structures).
 - Investigate how these processes unfold with other aspects of identity (e.g., disability, political views, religion).
 
 ## Conclusion

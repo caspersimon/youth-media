@@ -31,7 +31,7 @@ Children are more likely to learn from media models they identify with or percei
 > [!info]- Longer explanation
 > ![social learning](Definitions/theories/Social%20cognitive%20(learning)%20theory%20(Bandura).md)
 
-### The Capacity model
+### The [Capacity model](Definitions/theories/Capacity%20model%20(Fisch).md)
 Limited capacity of children’s working memory. Education content integrated into narrative better comprehended than content tangential to the story. When educational content and narrative compete for cognitive resources, learning is hindered
 
 > [!info]- Longer explanation and implications
@@ -42,9 +42,9 @@ Repeated exposure to educational content leads to formation of attitudes and beh
 
 ## Educational media effects
 
-* **Academic skills**: educational media can enhance literacy, numeracy, and problem-solving skills across different age groups ([[Definitions/Age ranges/infants]] to toddlers to older children and teens)
-	* Video deficit: [[Definitions/Age ranges/infants]] and toddlers might experience this – learning less effectively from screen than from real-life interactions
-* **Social-emotional skills**: educational media promote prosocial behaviour, empathy, self-regulation, and social competence in children and adolescents. Programs that promote social interactions and emotional intelligence demonstrate these benefits
+* **Academic skills**: educational media can enhance literacy, numeracy, and problem-solving skills across different age groups ([[Definitions/Age ranges/infants]] to [toddlers](Definitions/Age%20ranges/toddlers.md) to older children and teens)
+	* Video deficit: [[Definitions/Age ranges/infants]] and [toddlers](Definitions/Age%20ranges/toddlers.md) might experience this – learning less effectively from screen than from real-life interactions
+* **Social-emotional skills**: educational media promote prosocial behaviour, empathy, self-regulation, and social competence in children and [adolescents](Definitions/Age%20ranges/Adolescence.md). Programs that promote social interactions and emotional intelligence demonstrate these benefits
 * **Creativity:** well-designed educational media can stimulate imaginative play and creative thinking. The “stimulation hypothesis” proposes that media can enrich children’s store of ideas, fostering creative expression
 
 ### Key factors influencing learning

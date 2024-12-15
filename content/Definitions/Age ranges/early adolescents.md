@@ -1,2 +1,2 @@
 12-15 years
-also see [[Definitions/Age ranges/late adolescents]]
+also see [adolescents](Definitions/Age%20ranges/Adolescence.md)

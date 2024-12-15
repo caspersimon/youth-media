@@ -1,2 +1,8 @@
+---
+aliases:
+  - preteens
+  - pre-adolescents
+---
 8-12 years
-also see [[Definitions/Age ranges/middle childhood]]
+Concrete operational
+also see [[Definitions/Age ranges/middle childhood|Middle childhood]]

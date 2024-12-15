@@ -19,7 +19,7 @@ Common Sense aims to integrate these research insights into their ratings and re
 - **Under- and misrepresentation:** POC characters are often absent or pigeonholed into stereotypes. Latinos, Native Americans, and Middle Eastern groups are notably missing or simplified in media narratives, distorting children’s sense of who matters.
 - **Overrepresentation of White roles:** White actors dominate leads and central storylines, reinforcing an inaccurate social hierarchy.
 - **Potential for positive change:** High-quality children’s media can shape more inclusive attitudes, if it commits to nuanced, respectful portrayals.
-- **Early awareness:** Even very young kids notice race. Inclusive media from infancy onwards can influence ERD in positive ways.
+- **Early awareness:** Even very young kids notice race. Inclusive media from [infancy](Definitions/Age%20ranges/infants.md) onwards can influence ERD in positive ways.
 
 ### Introduction
 Media can be a mirror or a distorter. Historically, it has often been the latter for communities of color. The potential impact of these portrayals on children’s ERD is enormous. ERD includes how children perceive their own group and others, form stereotypes, and understand racism. While research on these topics is limited, what we have shows patterns that demand attention.
@@ -41,12 +41,12 @@ These constructs carry real social and psychological weight. They influence how 
 5. **Racism:** Awareness of systemic inequalities and consequences of racism.
 
 > [!info]+ Age Matters  
-> As children grow, their understanding of race and ethnicity becomes more sophisticated. Infants notice faces; preschoolers start forming group preferences; by middle childhood, they understand complex social realities; in adolescence, they shape their ethnic-racial identity and question systemic inequalities.
+> As children grow, their understanding of race and ethnicity becomes more sophisticated. [Infants](Definitions/Age%20ranges/infants.md) notice faces; [preschoolers](Definitions/Age%20ranges/preschoolers.md) start forming group preferences; by [middle childhood](Definitions/Age%20ranges/middle%20childhood.md), they understand complex social realities; in [adolescence](Definitions/Age%20ranges/Adolescence.md), they shape their ethnic-racial identity and question systemic inequalities.
 
 ### Developmental Milestones
-- **Infants (0–2):** Notice racial faces; form preferences based on familiar cues. Not inherently biased, but environment shapes comfort and recognition.
-- **Early Childhood (3–6):** Identify visible race-related features, may show in-group favoritism or internalize racial hierarchies. Stereotypes form but are simplistic and literal.
-- **Middle Childhood (7–11):** More nuanced views; kids recognize that race can define opportunities. They learn that openly talking about race is taboo but have growing historical and cultural knowledge.
+- **[Infants](Definitions/Age%20ranges/infants.md) (0–2):** Notice racial faces; form preferences based on familiar cues. Not inherently biased, but environment shapes comfort and recognition.
+- **[Early Childhood](Definitions/Age%20ranges/Early%20childhood.md) (3–6):** Identify visible race-related features, may show in-group favoritism or internalize racial hierarchies. Stereotypes form but are simplistic and literal.
+- **[Middle Childhood](Definitions/Age%20ranges/middle%20childhood.md) (7–11):** More nuanced views; kids recognize that race can define opportunities. They learn that openly talking about race is taboo but have growing historical and cultural knowledge.
 - **Young Teens (12–14):** Intensified focus on identity; greater social complexity. They see overlapping dimensions (gender, class, etc.) and have clearer perceptions of inequality.
 - **Late Teens (15–18):** Deepening critical understanding. Youth of color often become keenly aware of discrimination and racism, while some White youth start recognizing their own privilege.
 
@@ -85,7 +85,7 @@ Media can teach kids about ethnicity and race, both explicitly and implicitly. P
 > - Highlight positive role models from various backgrounds.
 
 ## Concluding Thoughts
-Media is a crucial influence on children’s understanding of race. As kids evolve from infancy through adolescence, their grasp of ethnicity-race deepens. Parents know media matters: They want empowering, honest, diverse content. Yet research on how media shapes ERD is limited, especially for newer platforms like social media and video games.
+Media is a crucial influence on children’s understanding of race. As kids evolve from [infancy](Definitions/Age%20ranges/infants.md) through [adolescence](Definitions/Age%20ranges/Adolescence.md), their grasp of ethnicity-race deepens. Parents know media matters: They want empowering, honest, diverse content. Yet research on how media shapes ERD is limited, especially for newer platforms like social media and video games.
 
 > [!info]- Research Gaps  
 > More evidence is needed on the ERD impact of films, user-generated content, and interactive platforms. Also lacking are studies on how intersectional identities affect children’s media reception (e.g., race plus gender, class, ability).
@@ -95,13 +95,13 @@ In short, media holds both promise and peril. With careful, research-informed ap
 ## ETHNIC-RACIAL DEVELOPMENT AND MEDIA EXPOSURE BY AGE
 (See tables in the original text for detailed age-wise breakdowns.)
 
-From infancy’s awareness of faces to adolescence’s understanding of structural racism, children at all ages benefit from media that respects their intellectual and emotional capacities. Media that encourages conversations, shows multifaceted POC characters, and reveals both historical truths and present inequalities can help children navigate the complex terrain of race. Conversely, media that relies on stereotypes or erases entire groups impedes ERD.
+From [infancy](Definitions/Age%20ranges/infants.md)’s awareness of faces to [adolescence](Definitions/Age%20ranges/Adolescence.md)’s understanding of structural racism, children at all ages benefit from media that respects their intellectual and emotional capacities. Media that encourages conversations, shows multifaceted POC characters, and reveals both historical truths and present inequalities can help children navigate the complex terrain of race. Conversely, media that relies on stereotypes or erases entire groups impedes ERD.
 
 > [!info]- Age-Specific Recommendations  
-> - Infants/Toddlers: Offer diverse, positive images.  
-> - Preschoolers: Show characters from multiple backgrounds cooperating and celebrating differences.  
-> - Middle Childhood: Include nuanced stories, historical context, and role models challenging stereotypes.  
-> - Adolescents: Engage with deeper content—discussions about racism, intersectionality, and civic responsibility.
+> - [Infants](Definitions/Age%20ranges/infants.md)/[Toddlers](Definitions/Age%20ranges/toddlers.md): Offer diverse, positive images.  
+> - [Preschoolers](Definitions/Age%20ranges/preschoolers.md): Show characters from multiple backgrounds cooperating and celebrating differences.  
+> - [Middle Childhood](Definitions/Age%20ranges/middle%20childhood.md): Include nuanced stories, historical context, and role models challenging stereotypes.  
+> - [Adolescents](Definitions/Age%20ranges/Adolescence.md): Engage with deeper content—discussions about racism, intersectionality, and civic responsibility.
 
 ## PART II—What Parents Think About Diverse Representations in Kids' Media
 A separate survey asked 1,143 U.S. parents of children ages 2–12 about their views on diversity in media. Key findings:

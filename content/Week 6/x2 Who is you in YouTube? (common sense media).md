@@ -1,7 +1,7 @@
 [https://www.commonsensemedia.org/sites/default/files/research/report/2022-youtube-report-final-web.pdfLinks to an external site.](https://www.commonsensemedia.org/sites/default/files/research/report/2022-youtube-report-final-web.pdf "https://www.commonsensemedia.org/sites/default/files/research/report/2022-youtube-report-final-web.pdf")
 ## Who Is the “You” in YouTube? Missed Opportunities in Race and Representation in Children’s YouTube Videos
 
-This report examines how children’s and teens’ YouTube viewing relates to ethnic-racial representation in online videos—a critical dimension often overlooked, even as online video consumption skyrockets. YouTube, a platform dominated by user-generated content, holds potential to broaden and diversify ethnic-racial portrayals. Instead, research conducted by Common Sense in partnership with the University of Michigan reveals that children’s YouTube experiences overwhelmingly mirror biases and racial hierarchies seen in traditional media. The analysis is based on samples of YouTube videos actually watched by two groups: children 0 to 8 and tweens/teens 9 to 18. While kids and teens now watch more YouTube than ever before, the platform is missing an opportunity to deliver authentic and inclusive storytelling. Instead, BIPOC (Black, Indigenous, People of Color) characters remain underrepresented, stereotyped, or absent. These findings raise concern, given that research shows media representations shape youth’s ethnic-racial development (ERD), influencing how they perceive themselves and others.
+This report examines how children’s and teens’ YouTube viewing relates to ethnic-racial representation in online videos—a critical dimension often overlooked, even as online video consumption skyrockets. YouTube, a platform dominated by user-generated content, holds potential to broaden and diversify ethnic-racial portrayals. Instead, research conducted by Common Sense in partnership with the University of Michigan reveals that children’s YouTube experiences overwhelmingly mirror biases and racial hierarchies seen in traditional media. The analysis is based on samples of YouTube videos actually watched by two groups: children 0 to 8 and [tweens](Definitions/Age%20ranges/tweens.md)/teens 9 to 18. While kids and teens now watch more YouTube than ever before, the platform is missing an opportunity to deliver authentic and inclusive storytelling. Instead, BIPOC (Black, Indigenous, People of Color) characters remain underrepresented, stereotyped, or absent. These findings raise concern, given that research shows media representations shape youth’s ethnic-racial development (ERD), influencing how they perceive themselves and others.
 
 ## Introduction
 In a few short years, YouTube has become a central media source for kids of all ages. For younger children, viewing time on user-generated platforms surpasses traditional TV. Teens now call YouTube their “can’t live without” service. Yet despite this influence, we know little about how YouTube’s vast library reflects or distorts the racial and cultural realities children face, and how it might affect their emerging understanding of ethnic-racial identities (ERD).
@@ -11,7 +11,7 @@ In a few short years, YouTube has become a central media source for kids of all 
 YouTube could be a game-changer because it’s free, global, and user-driven, potentially empowering BIPOC creators who have historically been marginalized. Yet this report’s findings suggest YouTube falls short. Content often features White characters predominantly, while BIPOC characters remain relegated to token or stereotypical roles. Rarely do we see nuanced, culturally rich stories—just as rarely do we see explicit teaching about race, leaving many opportunities untapped.
 
 > [!info]+ ERD and Media Basics  
-> - Children start noticing racial differences in infancy and form basic attitudes by preschool.  
+> - Children start noticing racial differences in [infancy](Definitions/Age%20ranges/infants.md) and form basic attitudes by preschool.  
 > - Media is a major source of racial "cues" shaping beliefs and biases.  
 > - Rich, diverse portrayals can support healthy ERD; negative or shallow depictions may stunt or distort it.
 
@@ -22,7 +22,7 @@ YouTube could be a game-changer because it’s free, global, and user-driven, po
 - **Negative Associations:** Videos with prominent BIPOC characters were more likely to feature violence (27% vs. 16% for videos with White characters), bad language (32% vs. 13%), and less educational content.  
 - **Rare Depth:** Only 29% of videos offered fully developed BIPOC characters; 10% included stereotypes, often subtle. No videos actively taught about race or ethnicity. Instead, BIPOC presence often felt shallow—fewer well-rounded positive leads or complex storylines showcasing ethnic-racial diversity.
 
-### For Tweens/Teens 9 to 18
+### For [Tweens](Definitions/Age%20ranges/tweens.md)/Teens 9 to 18
 - **More BIPOC Visibility, Still White-Dominated:** 61% of videos had any BIPOC individuals, more than in the younger sample, yet still 67% of characters were White. Groups like Latino, Native American, Middle Eastern, and others remained severely underrepresented.  
 - **Stereotypes and Biases:** About 9% of videos featured explicit ethnic-racial stereotypes, meaning a teen watching 10 videos daily could see over 300 stereotyped portrayals a year. Negative jokes, accent mockery, and the N-word were among the offenses.  
 - **Gender and Race Linked:** When ethnic-racial stereotypes were present, gender stereotypes often appeared too. Over half of stereotyped videos also included gender biases, such as hypersexualizing women of color.  
@@ -40,7 +40,7 @@ YouTube could be a game-changer because it’s free, global, and user-driven, po
 ## Methodology Overview
 The sample included:
 - **0 to 8**: 114 children’s viewing histories from March-April 2020. Five recently watched videos per child were coded (total 546 videos).
-- **9 to 18**: 140 tweens/teens from June-July 2021. Five videos each, total 696 videos.
+- **9 to 18**: 140 [tweens](Definitions/Age%20ranges/tweens.md)/teens from June-July 2021. Five videos each, total 696 videos.
 
 Coders trained in ethnic-racial media analysis identified characters, coded ethnic-racial groups, measured portrayal quality (positive, negative, shallow, stereotypes, or power imbalances), and recorded other features (violence, educational value, consumerism). Inter-rater reliability was high.
 
@@ -61,9 +61,9 @@ Young kids often watched “colorblind” cartoons (27%) or animal-based content
 - Shallow portrayals were more common than explicit stereotypes. Still, 10% included some racial tropes—e.g., mocking accents in gaming videos, “White savior” narratives.
 
 > [!info]- Why it Matters for Young Kids  
-> Preschoolers form racial attitudes and can internalize bias. Without positive, diverse media role models, kids may learn to favor White characters as “normal” and devalue non-White identities. Missed chances at early cultural pride and empathy matter, as early ERD sets the stage for later identity and social behavior.
+> [Preschoolers](Definitions/Age%20ranges/preschoolers.md) form racial attitudes and can internalize bias. Without positive, diverse media role models, kids may learn to favor White characters as “normal” and devalue non-White identities. Missed chances at early cultural pride and empathy matter, as early ERD sets the stage for later identity and social behavior.
 
-## Results for Tweens/Teens
+## Results for [Tweens](Definitions/Age%20ranges/tweens.md)/Teens
 
 ### Genre and Engagement
 Teens watch more user-generated, personality-driven content: vlogs (22%), gaming videos (16%), compilations (13%), music (12%). They seldom encountered language about race/ethnicity directly. Ethnic-racial stereotypes appeared in 9% of videos, raising concerns about normalization of bias. However, videos with stereotypes had fewer views, suggesting an appetite for better content.
@@ -75,7 +75,7 @@ Teens watch more user-generated, personality-driven content: vlogs (22%), gaming
 - Gender stereotypes frequently co-occurred with racial stereotypes (55% vs. 18% in non-stereotyped videos), reinforcing that discrimination often clusters across identity axes.
 
 > [!info]+ Why it Matters for Teens  
-> As adolescents refine their ethnic-racial identities and moral compasses, exposure to both subtle and overt stereotypes can misguide them. Teens may admire YouTubers and internalize their jokes or assumptions as normative, shaping their future social attitudes and policies they support.
+> As [adolescents](Definitions/Age%20ranges/Adolescence.md) refine their ethnic-racial identities and moral compasses, exposure to both subtle and overt stereotypes can misguide them. Teens may admire YouTubers and internalize their jokes or assumptions as normative, shaping their future social attitudes and policies they support.
 
 ## Conclusions
 YouTube’s platform advantages (user-generated, global reach) could revolutionize ethnic-racial representation by ampli-fying creators who reflect the U.S. and global demographic reality. Instead, children’s YouTube diets mostly resemble old patterns: White faces at the center, BIPOC characters either missing, tokenized, or stereotyped.

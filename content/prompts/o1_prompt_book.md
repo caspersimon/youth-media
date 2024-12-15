@@ -29,7 +29,9 @@ If you cannot know the exact word count, you may estimate.
    - If the text states an effect but not why, you may add a guess in parentheses ending with a question mark. Use guesses sparingly.
 
 4. **Format and Readability:**
-   - Use a mix of bullet points, short paragraphs, bold key phrases, and hierarchical headings (##, ###, ####) for scan-ability.
+   - Use a mix of bullet points, short paragraphs, bold key phrases/words, and hierarchical headings (##, ###, ####) for scan-ability.
+   - Use abbreviations "e.g.," "i.e.," and "etc.,"
+   - Use "-->" to imply cause-effect.
    - Add h4 headings or bold subheadings if helpful.
    - Keep the main text concise and scannable. Use callouts to provide extra details.
 

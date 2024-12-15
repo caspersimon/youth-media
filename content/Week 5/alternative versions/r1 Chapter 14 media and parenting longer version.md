@@ -28,12 +28,12 @@ Modern media practices add complexity. Children are not just passive recipients 
 > **Tip:** For younger kids, setting clear, consistent rules about what shows or games are allowed can be effective. As children grow older, shifting to more conversational, active strategies may work better to help them think critically about what they watch or play.
 
 ## When Child Development and Proactive Media Monitoring Meet
-Children’s media needs and vulnerabilities change with age. Very young children (babies and toddlers) have different challenges than older children or teens. Older children may show increased interest in violent content, and by adolescence, maintaining any sort of media limit becomes tougher.
+Children’s media needs and vulnerabilities change with age. Very young children ([babies](Definitions/Age%20ranges/infants.md) and [toddlers](Definitions/Age%20ranges/toddlers.md)) have different challenges than older children or teens. Older children may show increased interest in violent content, and by [adolescence](Definitions/Age%20ranges/Adolescence.md), maintaining any sort of media limit becomes tougher.
 
 Effectively managing media requires understanding these developmental shifts. Parents need different approaches for different age groups, using both restrictive and active strategies suited to the child’s evolving interests, emotional maturity, and peer influences.
 
-## Babies, Toddlers, and Screen Time
-Parents of infants and toddlers wonder if any screen time is appropriate at all. In recent decades, children under two have been exposed to screens more often—either “foreground” media intentionally shown to them or “background” media they happen to overhear. **Background media** (e.g., adult TV running in the same room) has been associated with lower-quality play and weaker parent-child interactions. However, evidence against all screen use is not absolute. Research that originally suggested severe consequences has been reanalyzed, showing that moderate exposure, especially to educational, developmentally appropriate media, may not be harmful. Indeed, some educational apps and age-appropriate shows can even be beneficial.
+## [Babies](Definitions/Age%20ranges/infants.md), [Toddlers](Definitions/Age%20ranges/toddlers.md), and Screen Time
+Parents of [infants](Definitions/Age%20ranges/infants.md) and [toddlers](Definitions/Age%20ranges/toddlers.md) wonder if any screen time is appropriate at all. In recent decades, children under two have been exposed to screens more often—either “foreground” media intentionally shown to them or “background” media they happen to overhear. **Background media** (e.g., adult TV running in the same room) has been associated with lower-quality play and weaker parent-child interactions. However, evidence against all screen use is not absolute. Research that originally suggested severe consequences has been reanalyzed, showing that moderate exposure, especially to educational, developmentally appropriate media, may not be harmful. Indeed, some educational apps and age-appropriate shows can even be beneficial.
 
 > [!info]+  Clarification on Guidelines: 
 > - Old advice discouraged any screens for children under two.  
@@ -65,7 +65,7 @@ Teenagers present a new set of challenges. They value autonomy highly and often 
 Excessive smartphone or social media use can disrupt sleep, reduce downtime, and leave little room for reflection. Chronic stimulation might harm emotional well-being and creativity. Teens need help forming healthy media habits before phone use becomes automatic and unstoppable.
 
 > [!info]+  Brain and Behavior:
-> Adolescents’ heightened dopamine response to excitement and social interaction makes them more susceptible to addictive patterns of smartphone use. Without guidance, they may fall into habits that are hard to break later in life.
+> [Adolescents](Definitions/Age%20ranges/Adolescence.md)’ heightened dopamine response to excitement and social interaction makes them more susceptible to addictive patterns of smartphone use. Without guidance, they may fall into habits that are hard to break later in life.
 
 > [!warning]+  
 > **Risky Online Behavior:**  
@@ -82,6 +82,6 @@ The best time to shape healthy habits is before they form. Parents can set examp
 ## Conclusion
 Parents have significant influence on how children relate to media. While parenting in the twenty-first century feels daunting, especially given the speed of technological change, the core principles remain: **warmth, structure, consistency, and an appreciation for the child’s or teen’s perspective.**
 
-Whether deciding if infants should watch educational shows, guiding young children away from violent media, or supporting teens in taming their smartphone habits, **authoritative, proactive media monitoring** can make a crucial difference. Often, the same logic applies as in generations past: encourage healthy choices, discourage harmful ones, and do so in a way that children can understand, accept, and internalize.
+Whether deciding if [infants](Definitions/Age%20ranges/infants.md) should watch educational shows, guiding young children away from violent media, or supporting teens in taming their smartphone habits, **authoritative, proactive media monitoring** can make a crucial difference. Often, the same logic applies as in generations past: encourage healthy choices, discourage harmful ones, and do so in a way that children can understand, accept, and internalize.
 
 In short, parents need not become tech experts. Instead, they should leverage their understanding of child development, communicate openly, and help children gradually internalize good habits. By doing so, children learn to navigate media wisely—an essential skill in a world where screens are everywhere.

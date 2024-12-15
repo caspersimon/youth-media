@@ -9,7 +9,7 @@ Youth and media requires an interdisciplinary approach to find links between, fo
 Since the 1960s, two major fields have been studying it: cultural studies and media psychology (both are part of communication science/studies). But for this course we are mostly interested in media psychology. This is a growing field of study because of three trends:
 
 1. The commercialisation of the media environment around youth (US: starting in 1970s; NL: 1989). Lead to questions like “what effects does it have when childrens’ heroes promote unhealthy products?”
-2. 1997: the first TV shows for very young kids (1-2 years), namely teletubbies. And later also for babies from 3 months old (e.g., Baby Einstein). Because little was known about these effects, doctors recommended parents to keep their kids under 2 away from the tv. 
+2. 1997: the first TV shows for very young kids (1-2 years), namely teletubbies. And later also for [babies](Definitions/Age%20ranges/infants.md) from 3 months old (e.g., Baby Einstein). Because little was known about these effects, doctors recommended parents to keep their kids under 2 away from the tv. 
 3. The internet and social media (self esteem? Cyberbullying? Social skills?)
 
 More recently, scholars have developed a more nuanced view on the effects of media on youth. They now study both the negative and positive effects. The largest research centre for youth and media stuff is the one at the University of Amsterdam. Wow!

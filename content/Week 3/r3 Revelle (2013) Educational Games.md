@@ -3,7 +3,7 @@ Full text at the bottom, summary:
 ```table-of-contents
 ```
 # Introduction
-Piaget theorized that kids basically develop by constructing their realities through interacting with the world. Then, some other dude, Papert, applied that idea to computers and tech. He argued that development is optimal when kids are literally constructing their own worlds digitally.
+[Piaget](Definitions/Piaget.md) theorized that kids basically develop by constructing their realities through interacting with the world. Then, some other dude, Papert, applied that idea to computers and tech. He argued that development is optimal when kids are literally constructing their own worlds digitally.
 
 # Child Development and Interface Design
 With interface we mean the system of hardware (e.g., mouse, joystick) and software functions (e.g., point and click, drag, scroll) used to acces and interact with the game. Children have limited motor and cognitive abilities so that can be a hurdle.
@@ -51,7 +51,7 @@ However, this article came out in 2013 so it hadn't been studied yet!
 ### 3. Whole Body Movement
 The Wii, Kinect, and other interfaces that detect users' body movements provide another opportunity for more intuitive interaction styles. 
 
-* embodied cognition: the idea that thinking and learning is heavily influenced by the physical form and movement of the human body. Embodied cognition theory (e.g., Wilson, 2002) assumes that the human mind has evolved to learn in physical interaction with the environment, a complementary notion to Piaget's (1952) idea that a central component of cognitive development is infants' and toddlers' coordination of their sensory inputs with motor responses. ^tl93x1
+* embodied cognition: the idea that thinking and learning is heavily influenced by the physical form and movement of the human body. Embodied cognition theory (e.g., Wilson, 2002) assumes that the human mind has evolved to learn in physical interaction with the environment, a complementary notion to [Piaget](Definitions/Piaget.md)'s (1952) idea that a central component of cognitive development is [infants](Definitions/Age%20ranges/infants.md)' and [toddlers](Definitions/Age%20ranges/toddlers.md)' coordination of their sensory inputs with motor responses. ^tl93x1
 
 Using whole body movement in games has been linked to:
 * increased engagement
@@ -77,14 +77,14 @@ Giving developers of games knowledge about the developments of kids...
 ## Leveling and Hints/Clues. 
 
 > [!quote]
-> One particularly effective approach to supporting children's learning is via **scaffolding**, the provision of learning support by a mentor (e.g., Vygotsky, 1978). 
+> One particularly effective approach to supporting children's learning is via **[scaffolding](Definitions/scaffolding.md)**, the provision of learning support by a mentor (e.g., Vygotsky, 1978). 
 
 Research shows that:
-* scaffolding works when teachers use it
-* many parents naturally use scaffolding when interacting with their kids
+* [scaffolding](Definitions/scaffolding.md) works when teachers use it
+* many parents naturally use [scaffolding](Definitions/scaffolding.md) when interacting with their kids
 	* This can enhance children's executive function and verbal ability
 
-In games, scaffolding is also effective and has been implemented in two main ways:
+In games, [scaffolding](Definitions/scaffolding.md) is also effective and has been implemented in two main ways:
 
 ![[Definitions/scaffolding#How?]]
 
@@ -93,7 +93,7 @@ Studies that compare school results between kids motivated by external rewards (
 * those who are intrinsically motivated do better at school in the long run
 * those who are intrinsically motivated have better cognitive development
 
-We also know that kids and adolescents play games because they are intrinsically motivating!
+We also know that kids and [adolescents](Definitions/Age%20ranges/Adolescence.md) play games because they are intrinsically motivating!
 
 --> which prompts the question: what makes games so intrinsically motivating, and how do we bring that into the classroom?
 * Some researchers concluded that this "too complex and varied to expect that there would be isolable properties that account for a single motivation to play"
@@ -118,17 +118,17 @@ Kids with a growth mindset are more likely to:
 # Conclusion
 
 > [!quote]
-> Informing design with an understanding of the developmental needs, abilities, and challenges of children in various age groups can significantly improve the games' usability, appeal, and eftectiveness, maximizing engagement and learning.
+> Informing design with an understanding of the developmental needs, abilities, and challenges of children in various age groups can significantly improve the games' [usability](Definitions/Usability.md), appeal, and eftectiveness, maximizing engagement and learning.
 
 # Introduction
 The advent of personal computers in the early 1980s brought about
 the development of computer software designed specifically for
 children. The first widely known effort to apply developmental the-
 ory and principles to software for children was that of Seymour Papert.
-Early in his career, Papert worked with Piaget, and later applied Piaget's
+Early in his career, Papert worked with [Piaget](Definitions/Piaget.md), and later applied Piaget's
 constructivist theory of development (e.g., Piaget, 1952) to the domain of
 learning/interacting with computers, dubbing this approach "construction-
-ism" (Papert, 1980). Piaget theorized that children actively "construct"
+ism" (Papert, 1980). [Piaget](Definitions/Piaget.md) theorized that children actively "construct"
 their own knowledge in interaction with the world around them, progres-
 sively internalizing their actions and the results of those actions. Papert
 applied that theory to digital learning environments and extended it, argu-
@@ -195,7 +195,7 @@ tion highlights three intertaces that have particularly child-appropriate
 attributes.
 ### Tangible Interfaces. 
 It has long been theorized that young children's
-play with physical objects is crucial to cognitive development (cf., Piaget,
+play with physical objects is crucial to cognitive development (cf., [Piaget](Definitions/Piaget.md),
 1952; Vygotsky, 1978). These objects can include general purpose objects,
 such as sticks or rocks that the child uses imaginatively, or objects espe-
 cially designed to be toys, like dolls, toy cars, or toy food items.
@@ -248,7 +248,7 @@ enced by the physical form and movement of the human body. Embodied
 cognition theory (e.g., Wilson, 2002) assumes that the human mind has
 evolved to learn in physical interaction with the environment, a comple-
 mentary notion to Piaget's (1952) idea that a central component of cogni-
-tive development is infants' and toddlers' coordination of their sensory
+tive development is [infants](Definitions/Age%20ranges/infants.md)' and [toddlers](Definitions/Age%20ranges/toddlers.md)' coordination of their sensory
 inputs with motor responses.
 From a theoretical perspective, embodied interaction (in which
 physical body movements are used to interact with technology) has the
@@ -261,7 +261,7 @@ ical movement in game play has also been linked to increased engagement
 (Bianchi-Berthouze, Kim, & Patel, 2007; Ibister & DiMauro, 2011) and
 social interaction (Lindley, Couteur, & Bianchi-Berthouze, 2008).
 Whole-body movement interfaces could also contribute to motor
-development. During early childhood, gross motor skills develop rapidly.
+development. During [early childhood](Definitions/Age%20ranges/Early%20childhood.md), gross motor skills develop rapidly.
 Between the ages of 3 and 5, children typically progress from engaging in
 simple gross motor events like running or standing on one foot to more
 complex activities requiring much greater balance and coordination, like
@@ -296,12 +296,12 @@ developmental appropriateness of game design and the likelihood that
 children in the target age range will enjoy and learn from the game.
 
 ## Leveling and Hints/Clues. 
-One particularly effective approach to supporting children's learning is via scaffolding, the provision of learning support by a mentor (e.g., Vygotsky, 1978). Scaffolding has been shown to be an effective learning tool when used by teachers (Berk & Winsler, 1995; Bodrova & Leong, 2006). Further, many parents naturally use scaffolding when interacting with their children (Pratt, Green, MacVicar, & Bountrogianni, 1992; Pratt, Kerig, Cowan, & Cowan, 1988), and recent research (Hammond, Muller, Carpendale, Bibok, & Liebermann-Finestone, 2012) indicates that parents' use of scaffolding can enhance children's executive function and verbal ability.
+One particularly effective approach to supporting children's learning is via [scaffolding](Definitions/scaffolding.md), the provision of learning support by a mentor (e.g., Vygotsky, 1978). [Scaffolding](Definitions/scaffolding.md) has been shown to be an effective learning tool when used by teachers (Berk & Winsler, 1995; Bodrova & Leong, 2006). Further, many parents naturally use [scaffolding](Definitions/scaffolding.md) when interacting with their children (Pratt, Green, MacVicar, & Bountrogianni, 1992; Pratt, Kerig, Cowan, & Cowan, 1988), and recent research (Hammond, Muller, Carpendale, Bibok, & Liebermann-Finestone, 2012) indicates that parents' use of [scaffolding](Definitions/scaffolding.md) can enhance children's executive function and verbal ability.
 
-In the context of digital games, scaffolding is a particularly useful
+In the context of digital games, [scaffolding](Definitions/scaffolding.md) is a particularly useful
 technique for supporting children of varying ability levels in playing the
 same game and has frequently been used effectively in educational soft-
-ware (Pea, 2004; Revelle, 2003). Scaffolding has been incorporated into
+ware (Pea, 2004; Revelle, 2003). [Scaffolding](Definitions/scaffolding.md) has been incorporated into
 games in two primary ways: leveling and hints or clues. Computer games
 almost always include a sequence of game levels that increase in difficulty
 as the player becomes more proficient and advances in the game. Learning
@@ -311,12 +311,12 @@ or eye-hand coordination). Accordingly, early levels provide more scaf-
 folding for children's learning, which is gradually removed as the player
 progresses through game levels.
 The child's selection of a wrong answer also provides an opportunity
-for scaffolding support. When the child makes an incorrect choice, the
+for [scaffolding](Definitions/scaffolding.md) support. When the child makes an incorrect choice, the
 game can provide additional support in the form of hints or clues for
 approaching the problem. These clues can offer progressively more help
 with each subsequent mistake, until the child is capable of solving the
 problem. Revelle, Medoff, & Strommen (2001) provide a thorough
-description of the process for incorporating scaffolding for learning within
+description of the process for incorporating [scaffolding](Definitions/scaffolding.md) for learning within
 children's educational games.
 ## Motivation
 Ever since there have been computer games, researchers
@@ -340,7 +340,7 @@ ther, examining the multiple motivations for game play and the various
 ways in which developmental stage and level of cognitive development
 may influence which games are particularly appealing and motivating for
 different children, confirming that playing video games serves a diverse
-array of needs throughout childhood and adolescence.
+array of needs throughout childhood and [adolescence](Definitions/Age%20ranges/Adolescence.md).
 Theorists and researchers have compared students with extrinsically
 motivated "performance orientations," based on external incentives such
 as school grades or parental rewards, to those with intrinsically motivated
@@ -373,5 +373,5 @@ tive technology takes as its starting point not the capabilities of the tech-
 nology but, rather, the needs of its prospective users. In the case of
 interactive games for children, informing design with an understanding of
 the developmental needs, abilities, and challenges of children in various
-age groups can significantly improve the games' usability, appeal, and
+age groups can significantly improve the games' [usability](Definitions/Usability.md), appeal, and
 eftectiveness, maximizing engagement and learning.

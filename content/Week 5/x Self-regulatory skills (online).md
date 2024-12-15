@@ -31,12 +31,12 @@ Visual schedules, storyboards, and checklists help kids understand what’s next
 > [!info]- Consistency Counts  
 > Using the same app daily can reinforce routines. Over time, kids may rely less on the app and more on their own skills.
 
-# 3 Apps to Help Tweens and Teens With Self-Control
+# 3 Apps to Help [Tweens](Definitions/Age%20ranges/tweens.md) and Teens With Self-Control
 
 2. https://www.understood.org/en/school-learning/assistive-technology/finding-an-assistive-technology/4-apps-to-help-tweens-and-teens-with-self-control
 
 
-Tweens and teens who learn and think differently often need extra tools to manage focus and impulsivity, control emotional responses, and think twice before acting. Three key apps can help:
+[Tweens](Definitions/Age%20ranges/tweens.md) and teens who learn and think differently often need extra tools to manage focus and impulsivity, control emotional responses, and think twice before acting. Three key apps can help:
 
 ## Pomodoro Apps
 These time-management tools break work into short, focused intervals separated by brief breaks. By working in 20–30 minute “pomodoros,” kids can maintain attention on tasks, and then rest—improving focus and reducing frustration. Try free Pomodoro apps on Android or iOS to see which style your child prefers.

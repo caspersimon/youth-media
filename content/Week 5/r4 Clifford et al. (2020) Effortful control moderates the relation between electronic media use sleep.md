@@ -65,7 +65,7 @@ The results underscore the importance of guiding children’s media habits, part
 ## Limitations and Future Directions
 - **Generalizability:** Sample was mostly European American and Latino. Future studies in more diverse or older populations are needed.  
 - **Media Content and Duration:** Only binary/type measures were included. Knowing exactly how long and what kind of content kids consume might clarify which aspects are most harmful.  
-- **Bidirectionality:** Sleep could also influence next-day media choices. Further, changes might differ as kids move into adolescence, where social, biological, and academic pressures on sleep intensify.
+- **Bidirectionality:** Sleep could also influence next-day media choices. Further, changes might differ as kids move into [adolescence](Definitions/Age%20ranges/Adolescence.md), where social, biological, and academic pressures on sleep intensify.
 
 ## Conclusion
 Consistent prebedtime media use generally spells shorter, later sleep for young children, with low self-regulation amplifying the problem. Still, occasional deviations from a child’s typical routine matter less. Strategies to improve bedtime habits can be particularly useful for children who struggle to control their attention and impulses, helping ensure adequate and restful sleep.

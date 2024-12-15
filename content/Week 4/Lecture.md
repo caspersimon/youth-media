@@ -32,12 +32,12 @@ consequences for user experience, long term:
 And this happens a lot! Most teenagers in the US have seen porn accidentally.
 
 ## Developmental psychology
-* Preteens start to develop social antenna
+* [Preteens](Definitions/Age%20ranges/tweens.md) start to develop social antenna
 * From age 7/8 onwards, children start to describe themselves abstractly and their self-concept becomes more stable
-* Relationships with others become increasingly central to the self-definitions of preteens
+* Relationships with others become increasingly central to the self-definitions of [preteens](Definitions/Age%20ranges/tweens.md)
 * popularity becomes more important
 
-## Middle childhood: social media activities
+## [Middle childhood](Definitions/Age%20ranges/middle%20childhood.md): social media activities
 
 * During developmental stage most kids’ social circle does not reach beyond family and a few close friends (we do not know about their online self presentation practices e.g. how they are presenting their platforms)
 	* Social media relatively unpopulated

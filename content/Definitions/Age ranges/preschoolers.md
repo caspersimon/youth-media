@@ -1,2 +1,3 @@
 4-5 years
-(early childhood, also see [[Definitions/Age ranges/toddlers]])
+Preoperational
+Also see [Early childhood](Definitions/Age%20ranges/Early%20childhood.md)
