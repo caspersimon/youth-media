@@ -1,3 +1,5 @@
+
+remember the 3-legged dog (always)
 ## Media Use and the Development of Racial and Ethnic Attitudes and Stereotypes
 
 Understanding how youth learn about race in a multiracial society involves multiple belief types (stereotyping, prejudice, discrimination) and diverse influences (internal cognitive growth, external factors like parents, peers, teachers, and media). Children’s racial attitudes develop early, shaped by what they see, hear, and learn—and media is a powerful, persistent source of examples and storylines. Existing research has often focused on adults or media content itself. In contrast, here the emphasis is on how media use influences the formation of racial and ethnic beliefs among youth under 18, particularly in the United States since 1995. Key areas include: theoretical frameworks, developmental milestones in racial awareness, media’s effects on White youth’s views of people of color (POC), media’s effects on POC youth’s perceptions of themselves, and how POC youth may view other minority groups.

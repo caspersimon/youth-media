@@ -29,3 +29,6 @@ note to self: this one is actually interesting pls watch
 4. monitor monitor progress towards goal
 
 ![](Pasted%20image%2020241216181400.png)
+
+## How are media and ADHD related????
+
