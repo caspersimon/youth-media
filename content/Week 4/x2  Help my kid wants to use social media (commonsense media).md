@@ -114,7 +114,7 @@ Consider which content the kid will see.
 	* Downloading it together
 	* Checking out the safety/blocking features together
 	* Asking your kid to show you fun stuff from the different platforms they use 
-	* As a parent having acces to the login details and regularly checking in about what their kid is doing (important: tell your kid you're not spying but just checking in to help them navigate social media)
+	* As a parent having access to the login details and regularly checking in about what their kid is doing (important: tell your kid you're not spying but just checking in to help them navigate social media)
 	* Talk with them about things that happen on Snapchat (because there isn't really a feed to see)
 
 ## Child
